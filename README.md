@@ -3,7 +3,7 @@
 <!-- METRICS:START isocalendar -->
 <!-- METRICS:END isocalendar -->
 
-![Metrics](/github-metrics.svgmetrics/metrics.plugin.isocalendar.fullyear.svg)
+![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
 
 ###
 
