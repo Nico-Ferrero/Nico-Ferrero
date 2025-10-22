@@ -3,6 +3,8 @@
 <!-- METRICS:START isocalendar -->
 <!-- METRICS:END isocalendar -->
 
+![Metrics](/assets/metrics/metrics.plugin.isocalendar.fullyear.svg)
+
 ###
 
 <div align="center">
