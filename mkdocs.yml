@@ -1,0 +1,33 @@
+site_name: "Nico Ferrero"
+site_description: "Perfil y documentación"
+site_author: "Nico"
+site_url: ""
+
+docs_dir: "docs"
+site_dir: "site"
+
+theme:
+  name: "material"
+  language: "es"
+  palette:
+    - scheme: default
+      primary: 'indigo'
+      accent: 'indigo'
+
+nav:
+  - Home: index.md
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - codehilite
+  - pymdownx.superfences
+
+plugins:
+  - search
+
+# If you'd rather use the repository README.md as the site home,
+# move or copy README.md into the `docs/index.md` file or add a
+# symlink. The docs_dir is set to `docs` by default to avoid
+# overwriting the repo root; adjust as needed.

@@ -1,0 +1,11 @@
+output_file: README.md
+assets_dir: assets/metrics
+sections:
+  - name: isometric-calendar
+    marker_start: '<!-- METRICS:START isocalendar -->'
+    marker_end: '<!-- METRICS:END isocalendar -->'
+    content: |
+      <!-- This block is managed by metrics-embedder -->
+      ![Commit calendar](assets/metrics/metrics.plugin.isocalendar.fullyear.svg)
+    commit: true
+    create_assets_dir: true
