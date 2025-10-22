@@ -31,12 +31,9 @@ jobs:
             mv metrics.plugin.isocalendar.fullyear.svg assets/metrics/
           fi
 
-      - name: metrics-embedder action
-        uses: metrics-embedder/metrics-embedder-action@v1
-        with:
-         github_token: ${{ secrets.GITHUB_TOKEN }}
-         config_file: './perfil-config.yaml'
-         output_file: './README.md'
+      - name: Generate metrics placeholder
+        run: |
+          # metrics-embedder action skipped because repository or version not available
 
       - name: Copy README to docs
         run: |
