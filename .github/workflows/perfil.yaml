@@ -11,7 +11,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Full-year calendar
         # ensure assets dir exists for generated metrics
       - name: Create assets directory
         run: |
