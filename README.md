@@ -21,7 +21,7 @@
 
 <!-- Coding gif -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="520" alt="coding gif" />
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="480" alt="coding gif" />
 </div>
 
 <!--h2 without bottom border-->
