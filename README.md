@@ -19,11 +19,9 @@
   </a>
 </p>
 
-<!-- Snake animation -->
+<!-- Coding gif -->
 <div align="center">
-
-![snake gif](https://github.com/Jojisi/Jojisi/assets/116123535/8eae716d-b2e1-4cdb-872b-48d857f33b27)
-
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="520" alt="coding gif" />
 </div>
 
 <!--h2 without bottom border-->
@@ -113,35 +111,38 @@ const nico = {
 
 ###
 
-<!-- ============ STATS ============ -->
+<!-- ============ TROPHIES ============ -->
 <div id="user-content-toc">
   <ul align="center" style="list-style: none;">
-    <summary><h2 style="display: inline-block">📊 GitHub en cifras</h2></summary>
+    <summary><h2 style="display: inline-block">🏆 Trofeos</h2></summary>
   </ul>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nico-Ferrero&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nico-Ferrero&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&langs_count=8" height="170" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nico-Ferrero&theme=vue-dark&hide_border=true" height="170" alt="streak graph" />
-</div>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Nico-Ferrero&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub trophies" />
+  </a>
+</p>
 
 ###
 
 <!-- ============ ACTIVITY ============ -->
 <div id="user-content-toc">
   <ul align="center" style="list-style: none;">
-    <summary><h2 style="display: inline-block">🗓️ Mi año en GitHub</h2></summary>
+    <summary><h2 style="display: inline-block">📈 Mi actividad</h2></summary>
   </ul>
 </div>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nico-Ferrero&theme=react-dark&hide_border=true&area=true&custom_title=Contribuciones%20del%20último%20año" alt="activity graph" />
+</p>
 
 <!-- METRICS:START isocalendar -->
 <!-- METRICS:END isocalendar -->
 
-![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
+<p align="center">
+  <img src="./metrics.plugin.isocalendar.fullyear.svg" alt="isometric calendar" />
+</p>
 
 ###
 
