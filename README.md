@@ -21,7 +21,7 @@
 
 <!-- Coding gif -->
 <div align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="480" alt="coding gif" />
+  <img src="https://media.giphy.com/media/HUkOv6BNWc1HO/giphy.gif" width="420" alt="homer bush gif" />
 </div>
 
 <!--h2 without bottom border-->
